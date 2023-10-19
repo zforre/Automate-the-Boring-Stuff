@@ -23,7 +23,9 @@ print(nums)
 
 animals = ['dogs', 'ants', 'badgers', 'cats', 'elephants']
 animals.sort()
-animals.sort(reverse=True)
+# both do the same 
+# animals.sort(reverse=True)
+animals.reverse()
 print(animals)
 
 letters = ['a', 'Z', 'f', 'Q']
