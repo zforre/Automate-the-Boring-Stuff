@@ -26,7 +26,7 @@ a, b = b, a
 print(a)
 print(b)
 
-# augmented assignment (+=, -=, *=, /=, %=)
+# augmented assignment operators (+=, -=, *=, /=, %=)
 spam = 42
 spam += 1
 print(spam)
