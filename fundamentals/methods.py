@@ -1,3 +1,5 @@
+# PAGES 89-92
+
 # index method returns index of item in list
 spam = ['hello', 'hi', 'howdy', 'heyas']
 print(spam.index('hello'))
