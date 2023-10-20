@@ -17,3 +17,6 @@ print(type(('hello'))) # str
 # that you don’t intend for that sequence of values to change.
 # If you need an ordered sequence of values that never changes,
 # use a tuple.
+
+print(tuple(['cat', 'dog', 5])) # turns list to tuple
+print(list(('cat', 'dog', 5))) # turns tuple to list
